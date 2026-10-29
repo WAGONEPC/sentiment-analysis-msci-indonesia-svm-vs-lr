@@ -318,5 +318,5 @@ Proyek penelitian dan dataset ini dilisensikan di bawah **[Creative Commons Attr
 
 ---
 
-**Peneliti / Kontributor:** Mahasiswa Semester 7, Program Studi Teknik Informatika, Universitas Darma Persada (UNSADA)  
+**Peneliti / Kontributor:** Mahasiswa Semester 7, Program Studi Teknologi Informasi, Universitas Darma Persada (UNSADA)  
 **Tahun Penelitian:** 2026
