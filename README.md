@@ -4,6 +4,19 @@
 ![NLP](https://img.shields.io/badge/NLP-Sastrawi%20%7C%20TF--IDF-green.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
 
+# TIM PENELITI & PEMBAGIAN KONTRIBUSI
+
+Penelitian komparasi analisis sentimen ini dilakukan secara kolaboratif oleh tim peneliti Program Studi [Nama Jurusan], [Nama Universitas/Fakultas]. Berikut rincian peran dan kontribusi masing-masing anggota:
+
+| Foto / Avatar | Nama Peneliti | Peran & Tanggung Jawab | Rincian Kontribusi |
+| :---: | :--- | :--- | :--- |
+| <img src="https://github.com/github-username-1.png" width="70" style="border-radius:50%"/> | **[Sayyid Abdullah Azzam]**<br><sub>Lead Researcher</sub><br>[@WAGONEPC](https://github.com/WAGONEPC) | **Project Lead & Data Scraping** | • Perancangan metodologi riset<br>• Pengumpulan dataset tweet X (Scraping)<br>• Data cleaning & eliminasi noise (emoji/regex) |
+| <img src="https://github.com/github-username-2.png" width="70" style="border-radius:50%"/> | **[Andreas Rio Christian]**<br><sub>NLP Specialist</sub><br>[@anrchrt275](https://github.com/anrchrt275) | **Text Preprocessing & Lexicon** | • Pipeline Sastrawi (Stemming & Stopwords)<br>• Pelabelan leksikon InSet & Market Lexicon<br>• Analisis negasi kata bahasa Indonesia |
+| <img src="https://github.com/github-username-3.png" width="70" style="border-radius:50%"/> | **[Ridwan Wahyu Kurniawan]**<br><sub>ML Engineer</sub><br>[@rwku](https://github.com/rwku) | **Modeling & Hyperparameter Tuning** | • Ekstraksi fitur TF-IDF & penanganan SMOTE<br>• Pelatihan model SVM & Logistic Regression<br>• Evaluasi Confusion Matrix, Akurasi, & F1-Score |
+| <img src="https://github.com/github-username-4.png" width="70" style="border-radius:50%"/> | **[Dr. Aji Setiawan, S.Kom, MMSI]**<br><sub>Advisor / Supervisor</sub><br>[@username-4](https://github.com/username-4) | **Dosen Pembimbing / Reviewer** | • Supervisi arah penelitian & metodologi ilmiah<br>• Validasi hasil komparasi algoritma<br>• Penelaahan naskah publikasi ilmiah |
+
+--- 
+
 # Analisis Sentimen Usulan Reklasifikasi MSCI Indonesia di Media Sosial X: Komparasi Model SVM vs. Logistic Regression
 **Publikasi Ilmiah / Tugas Akhir — Program Studi Teknik Informatika, Universitas Darma Persada (UNSADA)**  
 **Repositori GitHub:** [https://github.com/WAGONEPC/sentiment-analysis-msci-indonesia-svm-vs-lr](https://github.com/WAGONEPC/sentiment-analysis-msci-indonesia-svm-vs-lr)
