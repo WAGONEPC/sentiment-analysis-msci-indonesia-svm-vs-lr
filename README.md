@@ -20,7 +20,7 @@ Penelitian komparasi analisis sentimen ini dilakukan secara kolaboratif oleh tim
 --- 
 
 # Analisis Sentimen Usulan Reklasifikasi MSCI Indonesia di Media Sosial X: Komparasi Model SVM vs. Logistic Regression
-**Publikasi Ilmiah / Tugas Akhir — Program Studi Teknik Informatika, Universitas Darma Persada (UNSADA)**  
+**Publikasi Ilmiah / Tugas Akhir — Program Studi Teknologi Informasi, Universitas Darma Persada (UNSADA)**  
 **Repositori GitHub:** [https://github.com/WAGONEPC/sentiment-analysis-msci-indonesia-svm-vs-lr](https://github.com/WAGONEPC/sentiment-analysis-msci-indonesia-svm-vs-lr)
 
 ---
