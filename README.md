@@ -210,7 +210,11 @@ sentiment-analysis-msci-indonesia-svm-vs-lr/
 │
 ├── README.md                                  # Dokumentasi teknis lengkap penelitian
 ├── LICENSE.txt                                # Lisensi terbuka Creative Commons CC BY-NC-ND 4.0
-├── visualisasi_sentimen.png                   # Visualisasi sebaran sentimen & perbandingan periode
+├── .env.example                               # Contoh konfigurasi kredensial environment variable
+│
+├── assets/                                    # Berkas visualisasi grafik & diagram alur penelitian
+│   ├── MSCI Sentiment Research Flowchart.png  # Diagram alur arsitektur alur penelitian
+│   └── visualisasi_sentimen.png               # Visualisasi sebaran sentimen & perbandingan periode
 │
 ├── scraping_tw.ipynb                          # Notebook 1: Crawling, Preprocessing NLP, Pelabelan, TF-IDF, SMOTE
 ├── svm_training_testing.ipynb                 # Notebook 2: Pelatihan, Tuning GridSearch, & Pengujian SVM (Linear)

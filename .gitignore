@@ -4,8 +4,12 @@ __pycache__/
 *$py.class
 .ipynb_checkpoints/
 
+# Environment variables & Credentials
+.env
+.env.*
+!.env.example
+
 # Backup & Temporary files
 backup/
 *.tmp
 *.log
-
