@@ -14,7 +14,7 @@ Penelitian komparasi analisis sentimen ini dilakukan secara kolaboratif oleh tim
 | :---: | :--- | :--- | :--- |
 | <img src="https://res.cloudinary.com/dexbm5dzz/image/upload/v1793279294/142272351_zzbdqh.jpg" width="70" style="border-radius:50%"/> | **Sayyid Abdullah Azzam**<br><sub>Lead Researcher</sub><br>[@WAGONEPC](https://github.com/WAGONEPC) | **Project Lead & Data Scraping** | • Perancangan metodologi riset<br>• Pengumpulan dataset tweet X (Scraping)<br>• Data cleaning & eliminasi noise (emoji/regex) |
 | <img src="https://res.cloudinary.com/dexbm5dzz/image/upload/v1793279294/152648672_t1rneq.png" width="70" style="border-radius:50%"/> | **Andreas Rio Christian**<br><sub>NLP Specialist</sub><br>[@anrchrt275](https://github.com/anrchrt275) | **Text Preprocessing & Lexicon** | • Pipeline Sastrawi (Stemming & Stopwords)<br>• Pelabelan leksikon InSet & Market Lexicon<br>• Analisis negasi kata bahasa Indonesia |
-| <img src="https://github.com/github-username-3.png" width="70" style="border-radius:50%"/> | **Ridwan Wahyu Kurniawan**<br><sub>ML Engineer</sub><br>[@rwku](https://github.com/rwku) | **Modeling & Hyperparameter Tuning** | • Ekstraksi fitur TF-IDF & penanganan SMOTE<br>• Pelatihan model SVM & Logistic Regression<br>• Evaluasi Confusion Matrix, Akurasi, & F1-Score 
+| <img src="https://github.com/rwku.png" width="70" style="border-radius:50%"/> | **Ridwan Wahyu Kurniawan**<br><sub>ML Engineer</sub><br>[@rwku](https://github.com/rwku) | **Modeling & Hyperparameter Tuning** | • Ekstraksi fitur TF-IDF & penanganan SMOTE<br>• Pelatihan model SVM & Logistic Regression<br>• Evaluasi Confusion Matrix, Akurasi, & F1-Score 
 
 --- 
 
