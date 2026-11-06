@@ -208,7 +208,7 @@ Pada proses preprocessing teks, terdapat 6 tweet (seluruhnya berlabel Netral yan
 sentiment-analysis-msci-indonesia-svm-vs-lr/
 │
 ├── README.md                                  # Dokumentasi teknis lengkap penelitian
-├── LICENSE.txt                                # Lisensi terbuka Creative Commons CC BY-NC-ND 4.0
+├── LICENSE                                    # Lisensi terbuka Creative Commons CC BY-NC-ND 4.0
 ├── .env.example                               # Contoh konfigurasi kredensial environment variable
 │
 ├── assets/                                    # Berkas visualisasi grafik & diagram alur penelitian
